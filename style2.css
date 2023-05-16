@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    font-family: "Roboto", sans-serif;
+    font-size: 1.5rem;
+}
+
+.columns{
+     column-count: 4; /*put the first 4 paragraphs in a column*/
+     column-width: 50px; 
+    /*  columns: 4 250px; */ /* set column count and column width to 4 and 250px respectively*/
+     /* column-rule: 3px solid #333;  *//* add lines between each column*/
+     /* column-gap: 3rem; *//*adds a gap between each column*/
+ }
